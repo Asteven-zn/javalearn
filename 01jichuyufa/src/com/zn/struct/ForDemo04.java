@@ -20,7 +20,7 @@ public class ForDemo04 {
             for (int i = 1; i <= j; i++) {
                 System.out.print(j + "*" + i + "=" + (j*i)+"\t");
             }
-            //System.out.println();
+            System.out.println();
         }
     }
 }
